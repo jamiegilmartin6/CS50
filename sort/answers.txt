@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: Sort1 takes a varying amount of time depending on whether the data is already sorted or not. When the data is reversed this sort takes a much longer time than any of the others and therefore it is bubble sort.
+
+sort2 uses: merge sort
+
+How do you know?: Sort2 requires the least amount of time and it does not change by much if the data is sorted or not. Therefore this sort is merge sort.
+
+sort3 uses: selection sort
+
+How do you know?: Regardless of whether the data is sorted or not, the sort takes the same time as it must pass over all of the data to figure out the smallest data point each time. It takes longer than the merge sort so it is selection sort.
